@@ -1,7 +1,11 @@
-# Code Refactor Starter Code
+# Code Refactor
 
 ## Description
 
-## Screenshot
+### User Story
 
-## Links
+### Acceptance Criteria
+
+### Github Links
+
+## Contributor
